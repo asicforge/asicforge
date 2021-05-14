@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T22:12:11.037Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.6.13" etag="J1Gkcf-H9c03cuhQnwfY" type="github"><diagram id="wO5vIWjJbkUXODCfqVtz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-14T22:27:40.991Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="BHknBpSXeclGHJF8DTVs" version="14.6.13" type="github">
+  <diagram id="wO5vIWjJbkUXODCfqVtz" name="Page-1">
+    <mxGraphModel dx="960" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WS3DPUG8MJRUU8LFqy7c-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="320" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="WS3DPUG8MJRUU8LFqy7c-2" value="Network Gear&lt;br&gt;Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WS3DPUG8MJRUU8LFqy7c-3" value="Computer&lt;br&gt;Workstation&lt;br&gt;Electronic&lt;br&gt;Debug&lt;br&gt;and&lt;br&gt;Inspection&lt;br&gt;Scope" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="90" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="WS3DPUG8MJRUU8LFqy7c-4" value="SMD&lt;br&gt;Rework&lt;br&gt;Station" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="510" y="200" width="90" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="WS3DPUG8MJRUU8LFqy7c-5" value="Assessment&lt;br&gt;Rack 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="90" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WS3DPUG8MJRUU8LFqy7c-6" value="Assessment&lt;br&gt;Rack 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="510" y="520" width="90" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WS3DPUG8MJRUU8LFqy7c-7" value="Sonic&lt;br&gt;Cleaner" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="520" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WS3DPUG8MJRUU8LFqy7c-8" value="Compressor 2&lt;br&gt;Put outside&lt;br&gt;while using" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="600" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WS3DPUG8MJRUU8LFqy7c-9" value="Compressor 1&lt;br&gt;Put outside&lt;br&gt;while using" style="ellipse;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="600" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WS3DPUG8MJRUU8LFqy7c-10" value="Spares&lt;br&gt;Storage" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WS3DPUG8MJRUU8LFqy7c-12" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="850" as="sourcePoint" />
+            <mxPoint x="280" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WS3DPUG8MJRUU8LFqy7c-13" value="220V 50Amp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WS3DPUG8MJRUU8LFqy7c-12">
+          <mxGeometry x="-0.52" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WS3DPUG8MJRUU8LFqy7c-14" value="Inbound Servers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="740" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WS3DPUG8MJRUU8LFqy7c-15" value="Refreshed&lt;br&gt;Outbound&lt;br&gt;&amp;nbsp;Servers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="740" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
